@@ -1,33 +1,139 @@
 [
   {
-    "title": "Other 1_Animation",
-    "link_thumb": "https://live.staticflickr.com/65535/51698201620_22a438348e_o.gif",
-    "id_album": "-975585370",
-    "total": 45,
-    "size_max_detail_page": 1,
+    "title": "Kitty & My Melody_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787890710_14117df62c_o.gif",
+    "id_album": "-378480544",
+    "total": 76,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-975585370_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-378480544_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-378480544_index_1.json"
       }
     ]
   },
   {
-    "title": "Seven deadly sins Anime_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51688089276_b29a4c9839_o.gif",
-    "id_album": "1802210938",
+    "title": "Animal Art_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787790780_717a9fb6bb_o.gif",
+    "id_album": "97007466",
+    "total": 7,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_97007466_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Ragnarok_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787116811_f344da80f8_o.gif",
+    "id_album": "1601322210",
+    "total": 15,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1601322210_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Shiv_L10",
+    "link_thumb": "https://live.staticflickr.com/65535/51787135151_900ec95e30_o.gif",
+    "id_album": "-446586866",
+    "total": 32,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-446586866_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Rio 2_L9",
+    "link_thumb": "https://live.staticflickr.com/65535/51787997260_ecc6eb0ac5_o.gif",
+    "id_album": "-1210862910",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1210862910_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Simpsons Cartoon_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51787147396_14c9361a43_o.gif",
+    "id_album": "1276946590",
+    "total": 8,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1276946590_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Seven deadly sins Anime_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787386213_925f288021_o.gif",
+    "id_album": "1802210942",
     "total": 43,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1802210938_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1802210942_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Other 1",
+    "link_thumb": "https://live.staticflickr.com/65535/51787150893_5050a5e95b_o.gif",
+    "id_album": "518493953",
+    "total": 339,
+    "size_max_detail_page": 7,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_518493953_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_518493953_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_518493953_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_518493953_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_518493953_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_518493953_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_518493953_index_6.json"
       }
     ]
   },
   {
     "title": "Rio 2_L8",
-    "link_thumb": "https://live.staticflickr.com/65535/51687203337_e6207f32ef_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51787998100_2fa2053440_o.gif",
     "id_album": "-1210862911",
     "total": 17,
     "size_max_detail_page": 1,
@@ -39,101 +145,15 @@
     ]
   },
   {
-    "title": "Lilo & Stitch Cartoon_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51681153253_ec6bd4584c_o.gif",
-    "id_album": "685543660",
-    "total": 30,
+    "title": "Star War_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51787383618_545725840c_o.gif",
+    "id_album": "-1637191763",
+    "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_685543660_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Anime_Animation",
-    "link_thumb": "https://live.staticflickr.com/65535/51698013054_7d598e94dd_o.gif",
-    "id_album": "402419001",
-    "total": 94,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_402419001_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_402419001_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Language Indonesian",
-    "link_thumb": "https://live.staticflickr.com/65535/51671479403_13934ab8fb_o.gif",
-    "id_album": "-623187598",
-    "total": 37,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-623187598_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Football_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51677761381_1ce63db4c0_o.gif",
-    "id_album": "-371026089",
-    "total": 49,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-371026089_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Ratatouille Cartoon_L8",
-    "link_thumb": "https://live.staticflickr.com/65535/51687094912_483d196c35_o.gif",
-    "id_album": "1746345507",
-    "total": 5,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1746345507_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Ragnarok_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51687767411_425fe47b17_o.gif",
-    "id_album": "1601322211",
-    "total": 15,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1601322211_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Disney Cartoon_L8",
-    "link_thumb": "https://live.staticflickr.com/65535/51675667848_1f6b24b28d_o.gif",
-    "id_album": "-779586263",
-    "total": 54,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-779586263_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-779586263_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1637191763_index_0.json"
       }
     ]
   }
